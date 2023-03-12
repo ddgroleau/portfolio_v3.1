@@ -4,7 +4,6 @@ run-docker.sh
 .env
 .vs
 .idea
-.github
 coverage
 
 ## Ignore Visual Studio temporary files, build results, and
