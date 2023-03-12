@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace portfolio_v3._1.Pages
 {
@@ -14,7 +13,7 @@ namespace portfolio_v3._1.Pages
 
         public void OnGet()
         {
-
+           
         }
     }
 }
